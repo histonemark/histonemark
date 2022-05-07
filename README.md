@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Marc Corrales. A postdoc researcher at **[Laboratory of Molecular biology (LMB) in Cambridge (UK)](https://www2.mrc-lmb.cam.ac.uk/)
+
 
 <!--
 **histonemark/histonemark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
