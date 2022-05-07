@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Marc Corrales. A postdoc researcher at [Laboratory of Molecular biology (LMB)](https://www2.mrc-lmb.cam.ac.uk/)
+### Hola there 👋. I'm Marc Corrales, A postdoc researcher at [Laboratory of Molecular biology (LMB)](https://www2.mrc-lmb.cam.ac.uk/)
 
+🔭 My scientific interest is in understanding the Evolution of nervous systems, particularly the centers for associative memory.
 
 <!--
 **histonemark/histonemark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
