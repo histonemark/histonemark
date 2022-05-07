@@ -2,7 +2,7 @@
 
 🔭 I am interested in understanding the evolution of nervous systems, particularly the centers for associative memory.
 
-I work in [Albert Cadona lab](https://syn.mrc-lmb.cam.ac.uk/index.html) where we use modified focused-ion-beam scanning-electron-microscopes by [Shan Xu](https://www.janelia.org/open-science/enhanced-fib-sem) to acquire brain synaptic resolution volumes, or connectomes that we register, reconstruct and annotate with the lab-developped software [CATMAID](https://github.com/catmaid/CATMAID).  
+I work in [Albert Cadona's lab](https://syn.mrc-lmb.cam.ac.uk/index.html) where we use focused-ion-beam scanning-electron-microscopes modified by [Shan Xu](https://www.janelia.org/open-science/enhanced-fib-sem) to acquire brain synaptic resolution volumes, or connectomes, that we register, reconstruct and annotate with the lab-developped software [CATMAID](https://github.com/catmaid/CATMAID).  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2727890/167267406-da564157-be9b-401a-baff-b3babae5c657.png">
