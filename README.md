@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Marc Corrales. A postdoc researcher at **[Laboratory of Molecular biology (LMB) in Cambridge (UK)](https://www2.mrc-lmb.cam.ac.uk/)
+### Hi there 👋, I'm Marc Corrales. A postdoc researcher at [Laboratory of Molecular biology (LMB)](https://www2.mrc-lmb.cam.ac.uk/)
 
 
 <!--
