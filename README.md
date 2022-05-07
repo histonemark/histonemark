@@ -1,6 +1,13 @@
 ### Hola there 👋. I'm Marc Corrales, A postdoc researcher at [Laboratory of Molecular biology (LMB)](https://www2.mrc-lmb.cam.ac.uk/)
 
-🔭 My scientific interest is in understanding the Evolution of nervous systems, particularly the centers for associative memory.
+🔭 I am interested in understanding the evolution of nervous systems, particularly the centers for associative memory.
+
+I work in [Albert Cadona lab](https://syn.mrc-lmb.cam.ac.uk/index.html) where we use modified focused-ion-beam scanning-electron-microscopes by [Shan Xu](https://www.janelia.org/open-science/enhanced-fib-sem) to acquire brain synaptic resolution volumes, or connectomes that we register, reconstruct and annotate with the lab-developped software [CATMAID](https://github.com/catmaid/CATMAID).  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2727890/167267406-da564157-be9b-401a-baff-b3babae5c657.png">
+</p>
+
 
 <!--
 **histonemark/histonemark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
