@@ -1,5 +1,9 @@
 ### Hola there 👋. I'm Marc Corrales, A postdoc researcher at [Laboratory of Molecular biology (LMB)](https://www2.mrc-lmb.cam.ac.uk/)
 
+#### *Currently at Berlin Connectomics meeting* 
+Amphioxus poster: [Download here](https://www.dropbox.com/s/35u25enpz2einsn/Berlin_connectomics_poster.pdf?dl=0)  
+Squid poster: [Download here](https://drive.google.com/file/d/1Dq-5MvlXolhHGL0qhiMhwLl6k4VPYi8x/view?usp=drivesdk) 
+
 🔭 I am interested in understanding the evolution of nervous systems, particularly the centers for associative memory.
 
 I work in [Albert Cadona's lab](https://syn.mrc-lmb.cam.ac.uk/index.html) where we use FIBSEM (focused-ion-beam scanning electron microscopes) modified by [Shan Xu](https://www.janelia.org/open-science/enhanced-fib-sem) to acquire brain synaptic resolution volumes, or connectomes, that we register, reconstruct and annotate with the lab-developped software [CATMAID](https://github.com/catmaid/CATMAID).  
