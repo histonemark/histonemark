@@ -1,8 +1,5 @@
 ### Hola there 👋. I'm Marc Corrales, A postdoc researcher at [Laboratory of Molecular biology (LMB)](https://www2.mrc-lmb.cam.ac.uk/)
 
-#### *Currently at Berlin Connectomics meeting* 
-Amphioxus poster: [Download here](https://www.dropbox.com/s/35u25enpz2einsn/Berlin_connectomics_poster.pdf?dl=0)  
-Squid poster: [Download here](https://drive.google.com/file/d/1Dq-5MvlXolhHGL0qhiMhwLl6k4VPYi8x/view?usp=drivesdk) 
 
 🔭 I am interested in understanding the evolution of nervous systems, particularly the centers for associative memory.
 
@@ -12,6 +9,7 @@ I work in [Albert Cadona's lab](https://syn.mrc-lmb.cam.ac.uk/index.html) where 
   <img src="https://user-images.githubusercontent.com/2727890/167267406-da564157-be9b-401a-baff-b3babae5c657.png">
 </p>
 
+Amphioxus poster: [Download here](https://www.dropbox.com/s/35u25enpz2einsn/Berlin_connectomics_poster.pdf?dl=0)  
 
 <!--
 **histonemark/histonemark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
